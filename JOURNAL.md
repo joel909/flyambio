@@ -23,3 +23,7 @@ I spent this making my 3d model so I had no clue on how to make the air foil sin
 
 hour 24-30:
 i was looking for more inspiration and stuff on the thing and i ended up seeing this HJK thing and i compared mine to it and relaised mine to total shit so i sat and decided to make a few changes to make it look cool so a few changes that i made was that i modified the the hull design to be little more down to give that sharp look and then a few moment later i relaised that if i did thaet my battery would not fit in so i did one thing i would cut the center part of the rod to make space asthetics >> okay so u spent a good chunk of time figuring that out and then i moved the wings from the center to the top while doing that i landed at a discovery at the airfoiltolls site which i reilaise i can adjust the thinkneed and make my wings very thin obv it will be hard to take of first cuz less lift but the speed in air will be much higher cuz of low drag 
+
+hour 30-35 :
+i sat and made some calculations and it turns out it is true (my assumtions) and i needed a right combo beteen drag and lift and after going though more and more tuturial without finding the right intersection i landed at 20 or 30 would let my plane take of(just enough) and it would be minial drag i also considered a wing swapping desgin after take off too delusional right ik ik.
+
