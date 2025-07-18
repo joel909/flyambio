@@ -14,3 +14,7 @@ I went and started learning about airfolis continuation from the last day I did 
 
 ##Day3(7-10)
 so basically today was about thrust from the mortors to help me select the mortors i did some reasearch about static thruts (came across it as a problem in desgin) prop pitch and how these 2 make or break the aim for 300km/h also did some learning about rpm KV or mortors and stuff after I gained a decent understaning I made some calc and searched up mortos best for my case of 300km/h and i found a mortor for 2550KV but for some reason the propellor might  not be able to hold it  so i had to down grade and went for a safer option at 1950kv at 47500rpm with 6 cells 
+
+hours 10 -14 :
+I spent the time searching for different propellors and stuff and the making calculations based on it i went through some reddit posts and all that but turns out ill need a 14 inch one and i spent a lot of time looking at the site which had them they were available in the us but not in india so i needed to find a india specific platform to do this but i relaised that the popellor model i had found from alibabi was not right its pitch or something my friend told would not work so we got and started looking for more and then we settled one this one from robu
+
